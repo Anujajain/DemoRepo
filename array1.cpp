@@ -14,5 +14,5 @@ int main()
 		printf("%d ",arr[i]);
 	}
 	
-	return 0;
+	return 0; // changes made by swati
 }
