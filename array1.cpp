@@ -9,10 +9,10 @@ int main()
 		scanf("%d",&arr[i]);
 	}
 	
-	for(int i=0;i<5;i++)
+	for(int i=0;i<15;i++)
 	{
 		printf("%d ",arr[i]);
 	}
 	
-	return 0; // changes made by swati
+	return 0;
 }
