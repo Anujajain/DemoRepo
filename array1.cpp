@@ -2,7 +2,7 @@
 
 int main()
 {
-	int arr[5];
+	int swati[5];
 	
 	for(int i=0;i<5;i++)
 	{
@@ -14,5 +14,5 @@ int main()
 		printf("%d ",arr[i]);
 	}
 	
-	return 0;
+	return 0; 
 }
